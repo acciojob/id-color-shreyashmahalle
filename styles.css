@@ -2,16 +2,13 @@
 
 p#yellow{
 	background-color:yellow;
-	border-width:1px;
-	border-color:green;
+	border:1px solid green;
 }
 p#red{
 	background-color:red;
-	border-width:1px;
-	border-color:black;
+	border:1px solid black;
 }
 p#green{
 	background-color:green;
-	border-width:1px;
-	border-color:yellow;
+	border:1px solid yellow;
 }
